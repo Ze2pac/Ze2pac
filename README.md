@@ -1,7 +1,7 @@
 ### About Me 👤
 
 ```js
-const Fnr = {
+const Ze2pac = {
     name: "Ahmed",
     age: 17,
     from: "EGYPT",
